@@ -1,4 +1,4 @@
-# Wiki
+# SpamBot
 
 ![Language](https://img.shields.io/badge/Spellcheck-Pass-green?style=flat)
 ![Platform](https://img.shields.io/badge/OS%20Platform%20supported-x86-blue?style=flat)
