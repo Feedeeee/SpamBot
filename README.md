@@ -5,7 +5,6 @@
 ![Language](https://img.shields.io/badge/Language-Python-yellowgreen?style=flat)
 ![Testing](https://img.shields.io/badge/PEP8%20CheckOnline-Passing-green)
 ![Testing](https://img.shields.io/badge/Test-Pass-green)
-![Testing](https://img.shields.io/badge/Test-Pass-red)
 
 ## Descrizione
 
